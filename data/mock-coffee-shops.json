@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "The Daily Grind",
+    "latitude": 34.052235,
+    "longitude": -118.243683,
+    "address": "123 Java St, Los Angeles, CA",
+    "rating": 4.5,
+    "specialty": "Single-Origin Pour Over"
+  },
+  {
+    "id": "2",
+    "name": "Perk Up Cafe",
+    "latitude": 34.05321,
+    "longitude": -118.244781,
+    "address": "456 Aroma Ave, Los Angeles, CA",
+    "rating": 4.2,
+    "specialty": "Cold Brew"
+  },
+  {
+    "id": "3",
+    "name": "Steamin' Mugs",
+    "latitude": 34.05119,
+    "longitude": -118.242645,
+    "address": "789 Bean Blvd, Los Angeles, CA",
+    "rating": 4.8,
+    "specialty": "Artisanal Lattes"
+  },
+  {
+    "id": "4",
+    "name": "The Espresso Stop",
+    "latitude": 34.0541,
+    "longitude": -118.2458,
+    "address": "101 Roast Rd, Los Angeles, CA",
+    "rating": 4.0,
+    "specialty": "Classic Espresso"
+  },
+  {
+    "id": "5",
+    "name": "Java Joint",
+    "latitude": 34.05,
+    "longitude": -118.245,
+    "address": "202 Caffeine Ct, Los Angeles, CA",
+    "rating": 4.3,
+    "specialty": "Iced Mochas"
+  }
+]
